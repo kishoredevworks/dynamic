@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": true,
+      "item": "C++"
+    },
+    {
+      "id": "2",
+      "checked": false,
+      "item": "C"
+    },
+    {
+      "id": "3",
+      "checked": false,
+      "item": "Python"
+    },
+    {
+      "id": "4",
+      "checked": false,
+      "item": "Web Development"
+    },
+    {
+      "id": "5",
+      "checked": false,
+      "item": "React JS"
+    },
+    {
+      "id": "6",
+      "checked": false,
+      "item": "  MERN"
+    },
+    {
+      "id": "7",
+      "checked": false,
+      "item": "UI / UX"
+    }
+  ]
+}
