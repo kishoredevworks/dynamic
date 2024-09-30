@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kishoredevworks/dynamic.git/static/css/main.cd44e218.chunk.css",
+    "main.js": "/kishoredevworks/dynamic.git/static/js/main.b05fe999.chunk.js",
+    "main.js.map": "/kishoredevworks/dynamic.git/static/js/main.b05fe999.chunk.js.map",
+    "runtime-main.js": "/kishoredevworks/dynamic.git/static/js/runtime-main.8f2bd18d.js",
+    "runtime-main.js.map": "/kishoredevworks/dynamic.git/static/js/runtime-main.8f2bd18d.js.map",
+    "static/js/2.849399ec.chunk.js": "/kishoredevworks/dynamic.git/static/js/2.849399ec.chunk.js",
+    "static/js/2.849399ec.chunk.js.map": "/kishoredevworks/dynamic.git/static/js/2.849399ec.chunk.js.map",
+    "index.html": "/kishoredevworks/dynamic.git/index.html",
+    "precache-manifest.7263eca3d6c167fbd17eba79281c541c.js": "/kishoredevworks/dynamic.git/precache-manifest.7263eca3d6c167fbd17eba79281c541c.js",
+    "service-worker.js": "/kishoredevworks/dynamic.git/service-worker.js",
+    "static/css/main.cd44e218.chunk.css.map": "/kishoredevworks/dynamic.git/static/css/main.cd44e218.chunk.css.map",
+    "static/js/2.849399ec.chunk.js.LICENSE.txt": "/kishoredevworks/dynamic.git/static/js/2.849399ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f2bd18d.js",
+    "static/js/2.849399ec.chunk.js",
+    "static/css/main.cd44e218.chunk.css",
+    "static/js/main.b05fe999.chunk.js"
+  ]
+}
